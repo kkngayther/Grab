@@ -1,0 +1,10 @@
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\bin\Debug\TinhTienGrab.exe.config
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\bin\Debug\TinhTienGrab.exe
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\bin\Debug\TinhTienGrab.pdb
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\obj\Debug\TinhTienGrab.csprojAssemblyReference.cache
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\obj\Debug\TinhTienGrab.Form1.resources
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\obj\Debug\TinhTienGrab.Properties.Resources.resources
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\obj\Debug\TinhTienGrab.csproj.GenerateResource.cache
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\obj\Debug\TinhTienGrab.csproj.CoreCompileInputs.cache
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\obj\Debug\TinhTienGrab.exe
+C:\Users\leanh\Desktop\C#\TinhTienGrab\TinhTienGrab\obj\Debug\TinhTienGrab.pdb
